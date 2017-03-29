@@ -1,0 +1,36 @@
+# Application
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Generated
+bin/
+gen/
+out/
+
+# Gradle
+.gradle
+gradle/
+gradlew
+gradlew.bat
+build/
+
+# Proguard
+proguard/
+
+# Android Studio
+.navigation/
+captures/
+*.iml
+.idea/
+local.properties
+
+# Keystore
+*.jks
+
+# Other
+*.log
+.DS_Store
+.externalNativeBuild
+

@@ -1,1 +1,1 @@
-include ':sample', ':sharedstorage-annotation', ':sharedstorage-processor'
+include ':sample', ':sharedstorage-annotation', ':sharedstorage-processor', ':sharedstorage'

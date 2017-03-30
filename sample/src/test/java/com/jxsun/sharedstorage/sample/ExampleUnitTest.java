@@ -1,4 +1,4 @@
-package com.jxsun.sharedstorage;
+package com.jxsun.sharedstorage.sample;
 
 import org.junit.Test;
 

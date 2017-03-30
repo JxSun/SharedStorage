@@ -1,4 +1,4 @@
-package com.jxsun.sharedstorage;
+package com.jxsun.sharedstorage.sample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

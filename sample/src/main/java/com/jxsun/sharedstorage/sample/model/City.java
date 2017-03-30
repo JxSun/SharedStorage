@@ -1,4 +1,4 @@
-package com.jxsun.sharedstorage.model;
+package com.jxsun.sharedstorage.sample.model;
 
 import com.jxsun.sharedstorage.annotation.ModelField;
 import com.jxsun.sharedstorage.annotation.SharedModel;
